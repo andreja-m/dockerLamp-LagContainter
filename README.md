@@ -1,6 +1,6 @@
 # dockerLamp-LagContainter
 
-docker Lamp is script specificly made to automaticly make standard ubuntu LAMP containter:
+docker Lamp is script specificly made to automaticly deploy standard ubuntu LAMP containter:
 L - Linux
 A - Apache
 M - Mariadb
